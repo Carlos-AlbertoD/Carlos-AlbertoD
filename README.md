@@ -7,7 +7,7 @@
 ### - 📊 **Data Analyst** at CEDEM, empowering businesses by developing BI reports to discover what makes them unique in their field 🧬 (June 2019 - May 2021)
 
 ## My Education📚
-### - B.S. in Industrial Engineering, minor in Systems Engineering @ [![Tecnlógico de Monterrey](thumbs/tecmty.png)](https://tec.mx) Tecnologico de Monterrey 
+### - B.S. in Industrial Engineering, minor in Systems Engineering @ [![Tecnlógico de Monterrey](thumbs/tecmty.png)](https://tec.mx) Tecnológico de Monterrey 
 ### - Data Analytics Specialization from [![Google](thumbs/google.png)](https://coursera.org/verify/professional-cert/RTSNS8MNVJRW) Google
 ### - Tons of self-learning through projects, books, and life!
 
