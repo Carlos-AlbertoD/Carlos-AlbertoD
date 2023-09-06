@@ -8,8 +8,9 @@
 
 ## My Education📚
 ### - B.S. in Industrial Engineering, minor in Systems Engineering @ [![Tecnlógico de Monterrey](thumbs/tecmty.png)](https://tec.mx) Tecnológico de Monterrey 
+### - AI Fellowship at [![Fusemachines](thumbs/fuseai.png)](https://fusemachines.com/) Fusemachines
 ### - Data Analytics Specialization from [![Google](thumbs/google.png)](https://coursera.org/verify/professional-cert/RTSNS8MNVJRW) Google
-### - Tons of self-learning through projects, books, and life!
+### - Tons of self-learning
 
 ## What I use
 
