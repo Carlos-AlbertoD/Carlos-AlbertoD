@@ -1,18 +1,18 @@
-# Hello there!👋 I'm Carlos.
+**Hello there!👋 I'm Carlos.**
+
 [![Let's Connect](https://shields.io/badge/let's%20connect!-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/carlosdelavega100/)
 
 
-## Where I've Been
-### - 💻 **Operations Administrator** at Flex, leveraging data ecosystems to improve lean manufacturing processes 🧠⚙️ (February 2022 - May 2023)
-### - 📊 **Data Analyst** at CEDEM, empowering businesses by developing BI reports to discover what makes them unique in their field 🧬 (June 2019 - May 2021)
+**Where I've Been**
+- 💻 **Operations Administrator** at Flex, leveraging data ecosystems to improve lean manufacturing processes 🧠⚙️ (February 2022 - May 2023)
+- 📊 **Data Analyst** at CEDEM, empowering businesses by developing BI reports to discover what makes them unique in their field 🧬 (June 2019 - May 2021)
 
-## My Education📚
-### - B.S. in Industrial Engineering, minor in Systems Engineering @ [![Tecnlógico de Monterrey](thumbs/tecmty.png)](https://tec.mx) Tecnológico de Monterrey 
-### - AI Fellowship at [![Fusemachines](thumbs/fuseai.png)](https://fusemachines.com/) Fusemachines
-### - Data Analytics Specialization from [![Google](thumbs/google.png)](https://coursera.org/verify/professional-cert/RTSNS8MNVJRW) Google
-### - Tons of self-learning
+**My Education📚**
+- B.S. in Industrial Engineering, minor in Systems Engineering @ [![Tecnlógico de Monterrey](thumbs/tecmty.png)](https://tec.mx) Tecnológico de Monterrey 
+- AI Fellowship at [![Fusemachines](thumbs/fuseai.png)](https://fusemachines.com/) Fusemachines
+- Tons of self-learning
 
-## What I use
+***What I use***
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
